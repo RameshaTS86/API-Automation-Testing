@@ -1,0 +1,2 @@
+Partial Update Successful..!, Partial Updated BookingID is :  35
+Partial Updated Booking Details :  {'firstname': 'Bhoomika', 'lastname': 'Ramesh', 'totalprice': 1000, 'depositpaid': True, 'bookingdates': {'checkin': '2024-01-01', 'checkout': '2024-12-31'}, 'additionalneeds': 'super bowls'}

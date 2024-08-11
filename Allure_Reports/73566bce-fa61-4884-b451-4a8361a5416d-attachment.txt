@@ -1,0 +1,2 @@
+Booking Successful, Booking ID :  2352
+Booking Data :  {'bookingid': 2352, 'booking': {'firstname': 'Ramesha', 'lastname': 'T S', 'totalprice': 111, 'depositpaid': True, 'bookingdates': {'checkin': '2024-01-01', 'checkout': '2024-12-31'}, 'additionalneeds': 'super bowls'}}
